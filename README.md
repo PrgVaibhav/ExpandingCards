@@ -1,3 +1,3 @@
 # ExpandingCards
 Touch on a card to see details
-Visit this website - [Expanding Cards](https://prgvaibhav.github.io/Expanding-Cards/)
+Visit this website - [Expanding Cards](https://prgvaibhav.github.io/ExpandingCards/)
